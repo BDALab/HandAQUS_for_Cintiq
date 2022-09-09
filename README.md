@@ -8,4 +8,4 @@ This version is for display tablet __Wacom Cintiq__.
 * Minimum HW requierments: 2 GB RAM, 2.0 GHz CPU
 
 ## Instalation
-* Download all files and execute __HandAQUS_Cintiq_app.msi__
+* Download all files and execute __HandAQUS_for_Cintiq.msi__
